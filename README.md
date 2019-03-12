@@ -1,1 +1,1 @@
-# KA-ILIKLI-TAHM-N-OYUNU
+Karsilikli tahmin oyunu 
